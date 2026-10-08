@@ -1,0 +1,6 @@
+# Documentation directories
+[Dd]oc/
+[Dd]esign/
+
+# Directories whose names contain a dot
+*.*/
